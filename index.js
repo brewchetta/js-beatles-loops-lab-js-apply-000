@@ -12,5 +12,4 @@ var johnLennonFacts = function(facts) {
     facts[i] = facts[i] + "!!!";
   }
   return facts;
-
 };
