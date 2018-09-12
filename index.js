@@ -1,7 +1,7 @@
 // add solution here
 var theBeatlesPlay = function(musicians,instruments) {
     var strings = [];
-    for(i=0,i<musicians.length,i++) {
+    for(i=0;i<musicians.length;i++;) {
       strings.push(musicians[i] + " plays " + instruments[i])
     }
 };
