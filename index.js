@@ -13,7 +13,7 @@ var johnLennonFacts = function() {
   "He hated the sound of his own voice"];
   for(var i = 0; i < facts.length; i++) {
     facts[i] = facts[i] + "!!!";
-    return facts;
   }
+  return facts;
 
 };
